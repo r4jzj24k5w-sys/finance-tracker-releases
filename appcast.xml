@@ -1,6 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Finance Tracker updates</title><link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link><description>Signed macOS builds. Financial data remains on your Mac.</description><item><title>Finance Tracker 0.2.1</title><pubDate>Sat, 31 Oct 2026 21:38:31 GMT</pubDate><sparkle:version>3</sparkle:version><sparkle:shortVersionString>0.2.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description>Создание банковских карт и вкладов с текущими остатками при первом запуске. Новая боковая панель с разделами и кнопками +. Меню … для переименования и удаления с подтверждением; отмена сохраняет данные. Импорт PDF поддерживает только операции. Существующие счета и остатки сохраняются. Предварительная сборка для Apple Silicon, подпись ad-hoc без нотариализации.</description><enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.2.1/FinanceTracker-0.2.1-macOS.zip" length="1909828" type="application/octet-stream" sparkle:edSignature="EOCCjQRl4rN4UqOJvhbl30Rn+qohBLXEEicnAhk5tmN7CAlnxjmR4UCEonilG9zuvfI7mgxj50jqsuYvtJDkDQ==" sparkle:os="macos" sparkle:arch="arm64"></enclosure></item><item><title>Finance Tracker 0.2.0</title><pubDate>Sat, 31 Oct 2026 20:53:41 +0000</pubDate><sparkle:version>2</sparkle:version><sparkle:shortVersionString>0.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><description>Предварительная сборка: обновления из приложения и зашифрованные точки восстановления базы и PDF. Установите 0.2.0 вручную для перехода с 0.1.0. Подпись ad-hoc, без нотариализации. Полный цикл установки через Sparkle требует ручной приемки.</description><enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.2.0/FinanceTracker-0.2.0-macOS.zip" length="1853365" type="application/octet-stream" sparkle:edSignature="EkxMzxlAtLtfnciurHcUjkFLPStNow/8y56CzL4w3a7l0qG5ZvFnGAwmb2aHQ0b8ryhTDLGxjhcx4keVAW8hDg==" sparkle:os="macos" sparkle:arch="arm64"></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: nUmKP38/SlBwzioNT7JjaEpygJkXrn4uGN0Q6ZIFI01UyWww1a4NsLFLybZJgJGAXhbOswO+K6NWXa6MqTcZBw==
-length: 2924
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Finance Tracker updates</title>
+        <link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link>
+        <description>Signed macOS builds. Financial data remains on your Mac.</description>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Sun, 01 Nov 2026 01:27:29 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.2.2/FinanceTracker-0.2.2-macOS.zip" length="2013011" type="application/octet-stream" sparkle:edSignature="mu+LmJg0KKSw/hLw4/t6CfFGxNaIVL6OnNObzcnBQxs8Jgnj/6xR7yJbvvkYQ/gnVOOchxWPWh4eouovCELNBg=="/>
+        </item>
+        <item>
+            <title>Finance Tracker 0.2.1</title>
+            <pubDate>Sat, 31 Oct 2026 21:38:31 GMT</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>Создание банковских карт и вкладов с текущими остатками при первом запуске. Новая боковая панель с разделами и кнопками +. Меню … для переименования и удаления с подтверждением; отмена сохраняет данные. Импорт PDF поддерживает только операции. Существующие счета и остатки сохраняются. Предварительная сборка для Apple Silicon, подпись ad-hoc без нотариализации.</description>
+            <enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.2.1/FinanceTracker-0.2.1-macOS.zip" length="1909828" type="application/octet-stream" sparkle:edSignature="EOCCjQRl4rN4UqOJvhbl30Rn+qohBLXEEicnAhk5tmN7CAlnxjmR4UCEonilG9zuvfI7mgxj50jqsuYvtJDkDQ==" sparkle:os="macos" sparkle:arch="arm64"/>
+        </item>
+        <item>
+            <title>Finance Tracker 0.2.0</title>
+            <pubDate>Sat, 31 Oct 2026 20:53:41 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>Предварительная сборка: обновления из приложения и зашифрованные точки восстановления базы и PDF. Установите 0.2.0 вручную для перехода с 0.1.0. Подпись ad-hoc, без нотариализации. Полный цикл установки через Sparkle требует ручной приемки.</description>
+            <enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.2.0/FinanceTracker-0.2.0-macOS.zip" length="1853365" type="application/octet-stream" sparkle:edSignature="EkxMzxlAtLtfnciurHcUjkFLPStNow/8y56CzL4w3a7l0qG5ZvFnGAwmb2aHQ0b8ryhTDLGxjhcx4keVAW8hDg==" sparkle:os="macos" sparkle:arch="arm64"/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: UlqLAhH88sl+S0cg+inRj0kz+RjCgmM/oCWNAbpOCr50DQBDtCDAovNwcx3P44fVPSIr4owEbRTkELBeQjwJAQ==
+length: 3875
 -->
