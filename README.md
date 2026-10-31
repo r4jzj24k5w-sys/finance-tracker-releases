@@ -1,2 +1,13 @@
-# finance-tracker-releases
-Public signed application releases and update feed for Finance Tracker. No source code or user data.
+# Finance Tracker — канал сборок
+
+Публичный канал бинарных сборок Finance Tracker для macOS 14+ / Apple Silicon.
+
+[Скачать предварительную версию 0.2.0](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/tag/v0.2.0).
+
+Сборка содержит обновления из приложения и зашифрованную локальную историю базы/PDF. Для перехода с 0.1.0 один раз замените приложение вручную, сохранив папку Application Support/FinanceTracker и ключ Keychain. Затем используйте «Проверить обновления…».
+
+Предварительная сборка подписана ad-hoc, без Apple Developer ID и нотариализации. Полный цикл установки и перезапуска через Sparkle требует ручной приемки.
+
+`appcast.xml` — подписанная Ed25519 лента Sparkle. Подпись архива проверяется до распаковки. Финансовые данные остаются на Mac; в этом репозитории нет баз, документов, ключей или приватного исходного кода.
+
+Автоматические source archives GitHub относятся только к публичному описанию и ленте этого репозитория.
