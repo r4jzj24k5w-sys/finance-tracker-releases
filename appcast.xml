@@ -8,6 +8,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link>
         <description>Signed macOS builds. Financial data remains on your Mac.</description>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Sun, 01 Nov 2026 01:58:44 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Finance Tracker 0.3.0 — аналитика и классификация операций.</p>
+<ul>
+<li>Раздел «Аналитика» в боковом меню с доходами, расходами и графиками.</li>
+<li>Кнопка «Требует внимания (N)» показывает количество неклассифицированных операций за всю историю по всем счетам.</li>
+<li>Список операций с переходом к классификации. После сохранения список, счетчик и аналитика обновляются.</li>
+</ul>
+<p>macOS 14+, Apple Silicon. Сборка 5. Существующая база сохраняется. Подпись ad-hoc, без Developer ID и нотариализации.</p>
+]]></description>
+            <enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.3.0/FinanceTracker-0.3.0-macOS.zip" length="2055575" type="application/octet-stream" sparkle:edSignature="uYDM9/Ne+E96Ts3HaJLiVxKcet5EMRYXFZ51FmGlyRUt7EoPtOf4YcewKv3cBrj6uEAbtu5k9UTlwmIK9IF7Cw=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Sun, 01 Nov 2026 01:27:29 +0300</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -37,6 +54,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: UlqLAhH88sl+S0cg+inRj0kz+RjCgmM/oCWNAbpOCr50DQBDtCDAovNwcx3P44fVPSIr4owEbRTkELBeQjwJAQ==
-length: 3875
+edSignature: mlvRpbxfbjRs8bpFCS1URBNACoNlNFzOnUHzUzAOeDNrTEd5HFfqHdlyRu6RpweFthNh/4t5oJI94Jol1eaoDQ==
+length: 5486
 -->
