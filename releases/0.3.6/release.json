@@ -1,0 +1,21 @@
+{
+  "version": "0.3.6",
+  "build": "11",
+  "minimumSystemVersion": "14.0",
+  "architecture": "arm64",
+  "archive": "FinanceTracker-0.3.6-macOS.zip",
+  "length": 4130239,
+  "sha256": "9106f9029115c4ebfe291b5cbabbdeca3b87a4587977d46b26368f2a565f45e2",
+  "edSignature": "uLJoNQ537dgKJ6hpeIHAuPkCRyi2Rs0VS9W/P13Rj2vWI+K+NK36Zz301XPvAvXIpKs3hbVI9kliWML5UzcfCw==",
+  "signing": "ad-hoc",
+  "notarized": false,
+  "sourceCommit": "b805f67b0c8ba00b877a18d568f4821bdb79d63c",
+  "tests": {
+    "executed": 112,
+    "passed": 110,
+    "skipped": 2,
+    "failures": 0
+  },
+  "localSourceCommit": "4b55aa797ba6cfcdb7603339af4620c60e5269fb",
+  "sourceTree": "50c928958954c7dc7ef4b98e47a41c7661e30aef"
+}
