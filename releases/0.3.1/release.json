@@ -1,0 +1,14 @@
+{
+  "version": "0.3.1",
+  "build": 6,
+  "minimumOSVersion": "14.0",
+  "architecture": "arm64",
+  "archive": "FinanceTracker-0.3.1-macOS.zip",
+  "size": 2091057,
+  "sha256": "812686da1e137256f4971c59717ccb6824d43f88943b8634849ed12c882c9eb9",
+  "downloadURL": "https://raw.githubusercontent.com/r4jzj24k5w-sys/finance-tracker-releases/main/releases/0.3.1/FinanceTracker-0.3.1-macOS.zip",
+  "edSignature": "An9C26XZ+kZ+kMylkfzSwjUYipYTz6I7DDqr9QtO+9FmzVMlOtIHu7JOOZ/o0XLLrXEmrDrRXIpPoZQojliMCg==",
+  "publicEDKey": "b8BBWrHPFpLpl2UtmnaJOCPgEtBPF7I7SQnWKD2kHMA=",
+  "codeSigning": "ad-hoc",
+  "notarized": false
+}
