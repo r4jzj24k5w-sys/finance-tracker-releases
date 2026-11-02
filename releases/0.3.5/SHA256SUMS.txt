@@ -1,0 +1,1 @@
+ebb11b7e56540e411d9207ac0cc5bb98c7caee870d7015ce0d47ba937bbcea61  FinanceTracker-0.3.5-macOS.zip
