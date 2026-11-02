@@ -8,6 +8,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link>
         <description>Signed macOS builds. Financial data remains on your Mac.</description>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Mon, 02 Nov 2026 11:31:55 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Finance Tracker 0.3.1 — графики и расчеты.</p>
+<ul>
+<li>Сумма, дата и статус выбранного значения показаны над точкой на графиках баланса, расходов, доходов и вклада. Поддерживаются наведение мыши и щелчок.</li>
+<li>Средний расход в сутки рассчитывается за последние доступные 2–30 полностью покрытых календарных дней подряд. Дни без расходов учитываются, возвраты уменьшают расходы; показаны даты и фактический делитель.</li>
+<li>В настройках обновлений отображаются текущая версия программы и номер сборки.</li>
+<li>Баланс на главной восстанавливается от последнего известного остатка: поступления вычитаются, списания прибавляются при движении назад по датам проведения. Пробелы истории и неизвестное время проведения отмечены как предварительный расчет.</li>
+</ul>
+<p>macOS 14+, Apple Silicon. Сборка 6. Схема базы не меняется. Подпись ad-hoc, без Apple Developer ID и нотариализации.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/r4jzj24k5w-sys/finance-tracker-releases/main/releases/0.3.1/FinanceTracker-0.3.1-macOS.zip" length="2091057" type="application/octet-stream" sparkle:edSignature="An9C26XZ+kZ+kMylkfzSwjUYipYTz6I7DDqr9QtO+9FmzVMlOtIHu7JOOZ/o0XLLrXEmrDrRXIpPoZQojliMCg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Sun, 01 Nov 2026 01:58:44 +0300</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -54,6 +72,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: mlvRpbxfbjRs8bpFCS1URBNACoNlNFzOnUHzUzAOeDNrTEd5HFfqHdlyRu6RpweFthNh/4t5oJI94Jol1eaoDQ==
-length: 5486
+edSignature: Hi4a5Y4MG0RlVMh0wDxwps1QgC24EYgK85cVVxlKMDMmm10lFO7ug6IePmKx/YsaZ9OD84k/h2xBEaDGpVb7CQ==
+length: 7797
 -->
