@@ -8,6 +8,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link>
         <description>Signed macOS builds. Financial data remains on your Mac.</description>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Mon, 02 Nov 2026 09:28:05 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Finance Tracker 0.3.2 — фильтры и массовая классификация.</p>
+<ul>
+<li>В «Требует внимания» добавлен фильтр «Все / Расход / Пополнение» по направлению банковского движения.</li>
+<li>Правый клик по транзакции в аналитике открывает меню классификации.</li>
+<li>Чекбоксы слева позволяют выбрать несколько операций или все показанные строки.</li>
+<li>Правый клик по отмеченной строке применяет классификацию ко всем выбранным операциям. Неотмеченная строка изменяется отдельно. При смене фильтра скрытые строки исключаются из выделения.</li>
+</ul>
+<p>macOS 14+, Apple Silicon. Сборка 7. Схема базы не меняется. Подпись ad-hoc, без Apple Developer ID и нотариализации.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/r4jzj24k5w-sys/finance-tracker-releases/main/releases/0.3.2/FinanceTracker-0.3.2-macOS.zip" length="2117558" type="application/octet-stream" sparkle:edSignature="o7He3c7L7yosIq5y5pumZuEh1nLnmsIHs3CdG6roP4/h7dYq1ByY/51bUjkK4R7vHV39At5XkKKNiSPpHNMUAw=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Mon, 02 Nov 2026 11:31:55 +0300</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -72,6 +90,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Hi4a5Y4MG0RlVMh0wDxwps1QgC24EYgK85cVVxlKMDMmm10lFO7ug6IePmKx/YsaZ9OD84k/h2xBEaDGpVb7CQ==
-length: 7797
+edSignature: 9AaDrNwKgW9mCN2I3lqHVWeYvEyDZc4a3zf7hwSDdigUrGYmvsFeFNEDVEU2V/EuDSHMtr5CUFvx3BoUji/SAA==
+length: 9696
 -->
