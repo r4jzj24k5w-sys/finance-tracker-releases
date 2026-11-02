@@ -1,0 +1,13 @@
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires updating signatures in appcasts that reference this file! This will involve re-running generate_appcast or sign_update.
+-->
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8"><title>Finance Tracker 0.3.7</title></head><body>
+<h1>Finance Tracker 0.3.7 — исправление чтения отчетов по вкладам</h1>
+<ul><li>Распознается колонка «Сумма операции в валюте договора» в отчетах Т-Банка по вкладам.</li>
+<li>Сохраняется поддержка отчетов по картам и счетам, проверка реквизитов, знаков сумм и оборотов банка.</li>
+<li>Договор из описания перевода не подменяет договор выбранного вклада.</li></ul>
+<p>Проверены два реальных текстовых PDF: вклад — 2 страницы и 26 операций; карта — 12 страниц и 260 операций. Обороты сошлись в обоих случаях. Импорт вклада проверен в отдельном зашифрованном тестовом хранилище.</p>
+<p>118 тестов: 116 прошли, 2 пропущены (OCR runtime и прежний набор частных PDF). Приложенные PDF проверены успешно. База и ключ Keychain сохраняются.</p>
+<p>macOS 14+, Apple Silicon. Сборка 12. Подпись ad-hoc, без Developer ID и нотариализации. Полный цикл установки/перезапуска Sparkle требует отдельной приемки.</p>
+</body></html>

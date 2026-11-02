@@ -1,0 +1,31 @@
+{
+  "version": "0.3.7",
+  "build": "12",
+  "minimumSystemVersion": "14.0",
+  "architecture": "arm64",
+  "archive": "FinanceTracker-0.3.7-macOS.zip",
+  "length": 4045700,
+  "sha256": "9360115748d2bd06ff9b22863a025b6e24866759fc78d5ddc822cd4b03da148a",
+  "edSignature": "lKN7JyhTy2ujX+gb9O6HV28bZKbWQiN2LRZKa5FrifqUiUg7Y+/1+YsnMRsuWQjOVtupQlBlh4nPrZhsjZr2CA==",
+  "signing": "ad-hoc",
+  "notarized": false,
+  "sourceCommit": "49dbe7073291853f3a57b9089a6587b696eb78ef",
+  "tests": {
+    "executed": 118,
+    "passed": 116,
+    "skipped": 2,
+    "failures": 0
+  },
+  "movementValidation": {
+    "deposit": {
+      "pages": 2,
+      "operations": 26,
+      "totalsMatch": true
+    },
+    "card": {
+      "pages": 12,
+      "operations": 260,
+      "totalsMatch": true
+    }
+  }
+}
