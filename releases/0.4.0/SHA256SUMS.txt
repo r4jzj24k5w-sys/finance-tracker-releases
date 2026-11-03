@@ -1,0 +1,1 @@
+1ad54cc20fe5b62fe0851e295ccaf3fd1ea08e44dc589fb3854b5dd0e82c0c66  FinanceTracker-0.4.0-macOS.zip
