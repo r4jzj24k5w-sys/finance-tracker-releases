@@ -8,6 +8,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <link>https://github.com/r4jzj24k5w-sys/finance-tracker-releases</link>
         <description>Signed macOS builds. Financial data remains on your Mac.</description>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Tue, 03 Nov 2026 15:16:16 +0300</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="+JLGTDu1H0s/AW1d/Ei7Z9S40jMmRuWIBZFuqkWhuitze+CzY6AFaygAXmoQJyrsX/NYXWWNVooTuhIe3Eg0BA==" sparkle:length="1428">https://raw.githubusercontent.com/r4jzj24k5w-sys/finance-tracker-releases/main/releases/0.5.0/FinanceTracker-0.5.0-macOS.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.5.0/FinanceTracker-0.5.0-macOS.zip" length="4355949" type="application/octet-stream" sparkle:edSignature="ejR7uK3h3/4g93lNdbD2wc5vAYqxcGvvrsKntPsQg+j1RSoSb1SyKs3f0Z25hXRgToq5XUq+a7UlMr3CIrOYCg==" sparkle:os="macos" sparkle:arch="arm64"/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Tue, 03 Nov 2026 14:01:10 +0300</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -160,6 +170,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: mu+J+sWyZgkGRXwF0V0tyKtDTzBTJRZjDlM5Oreso6le0ZOHR67Q3SbNCf24uaReZquB2U505/WSRFmOLMhKBg==
-length: 17057
+edSignature: jqhiulcTaJhsbF6fWECkppfy4E84rh4GA3KTgccxdZ5A75IxeUCllEY9QUTJoUZQgGyOWoWUybg2gLEFpbXWAw==
+length: 18136
 -->
