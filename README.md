@@ -7,7 +7,7 @@
 - [macOS 14+ / Apple Silicon, сборка 16](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.6.0/FinanceTracker-0.6.0-macOS.zip) · [SHA-256](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.6.0/SHA256SUMS.txt)
 - [Windows 11 x64, предварительная сборка](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.6.0/FinanceTracker-0.6.0-Windows-x64.zip) · [SHA-256](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/download/v0.6.0/SHA256SUMS-Windows.txt)
 
-Распакуйте архив Windows целиком и запустите `FinanceTracker.exe`. Для переноса базы экспортируйте парольную копию `.ftbackup` на Mac и выберите «Восстановить из копии» в Windows. [Заметки о выпуске](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/tag/v0.6.0)
+Распакуйте архив Windows целиком и запустите `FinanceTracker.exe`. Для переноса базы экспортируйте парольную копию `.ftbackup` на Mac и выберите «Открыть архив…» в Windows. [Заметки о выпуске](https://github.com/r4jzj24k5w-sys/finance-tracker-releases/releases/tag/v0.6.0)
 
 ## Обновления macOS
 
